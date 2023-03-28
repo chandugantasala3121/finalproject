@@ -1,0 +1,10 @@
+.Button {
+  background-color: rgb(242, 242, 246);
+  font-weight: bold;
+  padding: 0.5rem;
+  font-family: Vollkorn;
+  }
+.Button:hover {
+color: #eff3e9;
+
+}
